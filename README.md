@@ -3,6 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Node.js 18+](https://img.shields.io/badge/node-18+-green.svg)](https://nodejs.org/)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Platform-000000?logo=vercel&logoColor=white)](https://frontend-psi-five-64.vercel.app)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Raheel-glicth/stocksense-ai)
+
+### 🌐 Live Submission Links
+- **Universal Project Link (Vercel Production)**: [https://frontend-psi-five-64.vercel.app](https://frontend-psi-five-64.vercel.app)
+- **GitHub Repository**: [https://github.com/Raheel-glicth/stocksense-ai](https://github.com/Raheel-glicth/stocksense-ai)
+- **1-Click Backend Deployment (Render Cloud)**: [Deploy Backend to Render](https://render.com/deploy?repo=https://github.com/Raheel-glicth/stocksense-ai)
 
 A production-quality machine learning platform for stock market prediction and analysis. Built with modern ML engineering practices, featuring multiple ML models, rigorous evaluation, explainable AI, and a professional fintech dashboard.
 
