@@ -1,0 +1,21 @@
+{
+  "name": "stocksense-ai",
+  "version": "1.0.0",
+  "description": "StockSense AI - Advanced Machine Learning Stock Prediction & Intelligence Platform",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "stock-prediction",
+    "machine-learning",
+    "fintech",
+    "fastapi",
+    "nextjs",
+    "xgboost",
+    "lstm"
+  ],
+  "author": "Senior ML Engineer",
+  "license": "MIT"
+}
